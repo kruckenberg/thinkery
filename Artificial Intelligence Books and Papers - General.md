@@ -1,0 +1,1 @@
+- John Haugueland, Artificial Intelligence: The Very Idea

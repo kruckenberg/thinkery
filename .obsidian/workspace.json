@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "033c69768366270b",
+    "type": "split",
+    "children": [
+      {
+        "id": "16d309bd073e6a62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9bcbe9596abe973",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a2abe763b66311c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc3341d97b24f773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence Books and Papers - General.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e4aeacb4faaa3df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is intelligence?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08d3c1e57c170265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eliciting Preferences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31c16f3b28cb312b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8e3ef71ec9daf7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5a837f6a110316c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1ed14deb2c76e8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6aba5f0d5bb8fce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53d3503beb9ee69c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2186afd8f6b2d41e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d272e6664474849",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Eliciting Preferences.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e41a9b8a603e1939",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Eliciting Preferences.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "546a64097d6b752a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52351ff25bc15a9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Eliciting Preferences.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "08d3c1e57c170265",
+  "lastOpenFiles": [
+    "Artificial Intelligence and Existential Risk.md",
+    "Eliciting Preferences.md",
+    "What is intelligence?.md",
+    "Intelligence.md",
+    "Artificial Intelligence Books and Papers - General.md",
+    "Artificial Intelligence Books and Papers.md",
+    "Cognitive Tools.md",
+    "Untitled"
+  ]
+}
