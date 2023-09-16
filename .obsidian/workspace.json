@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "16d309bd073e6a62",
+        "id": "3ee32d8a268acec8",
         "type": "tabs",
         "children": [
           {
-            "id": "a9bcbe9596abe973",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9a2abe763b66311c",
+            "id": "0420097a1474a9f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc3341d97b24f773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence Books and Papers - General.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e4aeacb4faaa3df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What is intelligence?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08d3c1e57c170265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eliciting Preferences.md",
+                "file": "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers - General.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eliciting Preferences.md",
+                "file": "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers - General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eliciting Preferences.md",
+                "file": "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers - General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eliciting Preferences.md"
+                "file": "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers - General.md"
               }
             }
           }
@@ -191,15 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08d3c1e57c170265",
+  "active": "0420097a1474a9f6",
   "lastOpenFiles": [
-    "Artificial Intelligence and Existential Risk.md",
-    "Eliciting Preferences.md",
-    "What is intelligence?.md",
-    "Intelligence.md",
-    "Artificial Intelligence Books and Papers - General.md",
-    "Artificial Intelligence Books and Papers.md",
+    "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers - Knowledge Representation.md",
+    "2023-09-16.md",
+    "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers - General.md",
     "Cognitive Tools.md",
-    "Untitled"
+    "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers.md",
+    "Eliciting Preferences.md",
+    "Artificial Intelligence and Existential Risk.md",
+    "Artificial Intelligence Books and Papers",
+    "Scraps.md",
+    "Inverse Reinforcement Learning.md",
+    "What is intelligence?.md",
+    "Intelligence.md"
   ]
 }

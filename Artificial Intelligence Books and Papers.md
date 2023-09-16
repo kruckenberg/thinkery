@@ -1,3 +1,0 @@
-- [[Artificial Intelligence Books and Papers - General]]
-- 
-- 

@@ -39,4 +39,3 @@
 - Bret Victor, [The Humane Representation of Thought](https://www.youtube.com/watch?v=agOdP2Bmieg)
 - Bret Victor, [Media for Thinking the Unthinkable](https://www.youtube.com/watch?v=oUaOucZRlmE)
 - Alan Kay, [The Computer Revolution Hasn't Happened Yet](https://www.youtube.com/watch?v=MC0_TDrmllM) (another: [OOPSLA 1997](https://www.youtube.com/watch?v=oKg1hTOQXoY))
-- 
