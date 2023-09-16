@@ -12,3 +12,6 @@ Some challenges in eliciting preferences:
 - Human preferences are dynamic. What we want today isn't necessarily what we'll want tomorrow.  
 - Human preferences can be hidden  
 - Human's make mistakes, so judging our preferences from our decisions and our actions must take into account our ignorance, etc. An intelligent machines would need a fairly complicated model of our beliefs to make good inferences about why we do what we do (but how would the machine learn about our beliefs except by seeing how we act?). 
+- It's devilishly difficult to be perfectly explicit when stating preferences. Maybe I saw I want a cup of coffee. I probably don't mean that I want a cup of coffee _at any cost_. But just what do I mean? And how much would an intelligent machine need to know about the world and my preferences to bound that request appropriately? 
+	- pragmatics is the branch of linguistics concerned with understanding the meaning of such statements
+	- A tool: Gricean analysis. See Paul Grice, _Studies in the Way of Words_.

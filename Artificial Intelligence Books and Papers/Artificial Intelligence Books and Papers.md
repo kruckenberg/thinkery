@@ -1,2 +1,3 @@
 - [[Artificial Intelligence Books and Papers - General]]
 - [[Artificial Intelligence Books and Papers - Knowledge Representation]]
+- [[Artificial Intelligence Books and Papers - Eliciting Preferences]]

@@ -1,4 +1,8 @@
 {
-  "accentColor": "#d2c38e",
-  "cssTheme": ""
+  "accentColor": "#e6d0c1",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Overpass",
+  "textFontFamily": "Rubik",
+  "baseFontSize": 18,
+  "theme": "obsidian"
 }

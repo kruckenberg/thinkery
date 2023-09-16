@@ -1,0 +1,3 @@
+- Paul Grice, _Studies in the Way of Words_
+- Michael Wellman and Jon Doyle, "Preferential semantics for goals"
+- Georg von Wright, "The logic of preferences reconsidered"
