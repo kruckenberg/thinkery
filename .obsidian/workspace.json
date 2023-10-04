@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee32d8a268acec8",
+        "id": "ab0fabf2a20f0bdd",
         "type": "tabs",
         "children": [
           {
-            "id": "0420097a1474a9f6",
+            "id": "eb487378610eae1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers - General.md",
+                "file": "Chain of Thought.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61b021a0d3cc47a0",
+            "id": "eacd15ab4ef72fb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading List.md",
+                "file": "Big Picture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b33535a9dd0e220a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chain of Thought.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading List.md",
+                "file": "Big Picture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading List.md",
+                "file": "Big Picture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading List.md"
+                "file": "Big Picture.md"
               }
             }
           },
@@ -169,8 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61b021a0d3cc47a0",
+  "active": "eacd15ab4ef72fb0",
   "lastOpenFiles": [
+    "LLM Evaluation.md",
+    "Chain of Thought.md",
+    "Large Language Models.md",
+    "Big Picture.md",
+    "Tree of Thoughts.md",
     "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers - General.md",
     "Reading List.md",
     "Artificial Intelligence Books and Papers - Eliciting Preferences.md",
