@@ -62,5 +62,18 @@ Model-based agents improve on simple reflex agents by keeping an internal repres
 
 Naively, I might have thought that the state update is simply a new "all-in" perception of the world (rather than a function I execute before my next perception). But of course that can't be right. To plan my action, I need to be able to anticipate (to infer) future states. And I take notice of certain features in my next percept because they don't match what I'd anticipated I'd perceive.
 ## Goal-based Agents
+Goal-based agents choose from among available actions calculating which of those actions is most likely to achieve its goal(s). A goal is just a description of a desirable state.
 
+In more complex environments, immediately available actions do not achieve the agent's goals. The agent thus needs to [[Search]] or plan. 
 ## Utility-based Agents
+A utility-based agent has hierarchically-ordered goals, the highest of which we call the agent's *utility function*. The utility function is essentially an internalization of the (external) performance measure. Utility functions allow an agent decide how to make trade-offs between incompatible goals or goals that cannot be simultaneously maximized. It also allows an agent to rank goals and pursue higher-value goals when it could choose from among several goal-seeking actions.
+
+## Learning Agents
+Any of the above agents can be equipped to learn. The ability to learn is especially important in more complex environments where it would be infeasible to equip the agent with all the knowledge it needs.
+
+Learning agents incorporate additional modules: a *critic*, a *learning element*, and a *problem generator*. The learning element is responsible for making improvements based on feedback it receives from the critic about how the performance element is performing. (At this point, how it makes those improvements is left purposely undefined. The mechanisms for learning depend on the design of the performance element.) Think of the problem generator as a module that prompts exploratory actions that are likely to lead to experiences from which the agent can learn (presumably better informed than random walks).
+
+## Agents' Representations of the Environment
+- Atomic: each state of the world is indivisible, lacking internal structure
+- Factored: each state of the world is decomposed into a *fixed* (in advance) set of attributes.
+- Structured: each state of the world is decomposed into objects, each of which has its own attributes, and relations between those objects (natural language describes the world in this structured way)

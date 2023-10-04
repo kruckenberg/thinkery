@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big Picture.md",
+                "file": "Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Big Picture.md",
+                "file": "Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Big Picture.md",
+                "file": "Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Big Picture.md"
+                "file": "Search.md"
               }
             }
           },
@@ -183,10 +183,11 @@
   },
   "active": "eacd15ab4ef72fb0",
   "lastOpenFiles": [
+    "Big Picture.md",
+    "Search.md",
     "LLM Evaluation.md",
     "Chain of Thought.md",
     "Large Language Models.md",
-    "Big Picture.md",
     "Tree of Thoughts.md",
     "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers - General.md",
     "Reading List.md",
