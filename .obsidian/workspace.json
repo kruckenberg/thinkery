@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ab0fabf2a20f0bdd",
+        "id": "a088d3d36e0aec60",
         "type": "tabs",
         "children": [
           {
-            "id": "1796b18d2539cc35",
+            "id": "e4b2290060e2f41b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rust.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rust.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,10 +149,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1796b18d2539cc35",
+  "active": "e4b2290060e2f41b",
   "lastOpenFiles": [
-    "Search.md",
+    "Deep Learning.md",
     "Rust.md",
+    "Search.md",
     "Big Picture.md",
     "LLM Evaluation.md",
     "Chain of Thought.md",
