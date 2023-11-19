@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ab0fabf2a20f0bdd",
+        "id": "22bc2ede1ce7a05a",
         "type": "tabs",
         "children": [
           {
-            "id": "cda3f3806785c9e7",
+            "id": "5020ff92085a9d10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eliciting Preferences.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b7c76529d0d530b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50.md",
+                "file": "Northridge Computer Science Syllabi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50.md",
+                "file": "Northridge Computer Science Syllabi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50.md",
+                "file": "Northridge Computer Science Syllabi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS50.md"
+                "file": "Northridge Computer Science Syllabi.md"
               }
             }
           },
@@ -169,12 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b7c76529d0d530b",
+  "active": "5020ff92085a9d10",
   "lastOpenFiles": [
-    "Eliciting Preferences.md",
-    "CS50.md",
-    "Artificial Intelligence Books and Papers - Eliciting Preferences.md",
     "Tree of Thoughts.md",
+    "Northridge Computer Science Syllabi.md",
+    "Untitled.md",
+    "CS50.md",
+    "Eliciting Preferences.md",
+    "Artificial Intelligence Books and Papers - Eliciting Preferences.md",
     "Search.md",
     "Rust.md",
     "Large Language Models.md",
