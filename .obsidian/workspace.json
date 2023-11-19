@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a088d3d36e0aec60",
+        "id": "ab0fabf2a20f0bdd",
         "type": "tabs",
         "children": [
           {
-            "id": "e4b2290060e2f41b",
+            "id": "cda3f3806785c9e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Eliciting Preferences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b7c76529d0d530b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "53d3503beb9ee69c",
@@ -82,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS50.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS50.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS50.md"
+              }
             }
           },
           {
@@ -149,21 +169,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4b2290060e2f41b",
+  "active": "9b7c76529d0d530b",
   "lastOpenFiles": [
-    "Deep Learning.md",
-    "Rust.md",
-    "Search.md",
-    "Big Picture.md",
-    "LLM Evaluation.md",
-    "Chain of Thought.md",
-    "Large Language Models.md",
+    "Eliciting Preferences.md",
+    "CS50.md",
+    "Artificial Intelligence Books and Papers - Eliciting Preferences.md",
     "Tree of Thoughts.md",
+    "Search.md",
+    "Rust.md",
+    "Large Language Models.md",
+    "LLM Evaluation.md",
+    "Deep Learning.md",
+    "Chain of Thought.md",
+    "Clipboard.md",
     "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers - General.md",
     "Reading List.md",
-    "Artificial Intelligence Books and Papers - Eliciting Preferences.md",
+    "Big Picture.md",
     "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers.md",
-    "Eliciting Preferences.md",
     "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers - Knowledge Representation.md",
     "2023-09-16.md",
     "Cognitive Tools.md",

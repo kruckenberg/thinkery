@@ -1,7 +1,6 @@
 We have trouble telling ourselves and each other what we want, so how can we expect to tell intelligent machines what we want? Preference elicitation is not easy for human beings. It won't be easy for intelligent machines, either.
 
-# Why it is difficult to elicit human preferences  
- 
+# Why it is difficult to elicit human preferences 
  Human beings often do manage to learn what they and other human beings desire. How? "Economists elicit preferences from human subjects by offering them choices." For AIs, what we want is something like [[Inverse Reinforcement Learning]] (also known as "structural estimation of Markov decision processes", see Tom Sargent). In typical reinforcement learning, behaviors are generated from rewards. In inverse reinforcement learning (IRL), the idea is to learn the reward function from the behavior. If a machine can learn its human's reward function, it can also predict its human's behavior in new circumstances.  
 
 Some challenges in eliciting preferences:  
@@ -15,3 +14,8 @@ Some challenges in eliciting preferences:
 - It's devilishly difficult to be perfectly explicit when stating preferences. Maybe I saw I want a cup of coffee. I probably don't mean that I want a cup of coffee _at any cost_. But just what do I mean? And how much would an intelligent machine need to know about the world and my preferences to bound that request appropriately? 
 	- pragmatics is the branch of linguistics concerned with understanding the meaning of such statements
 	- A tool: Gricean analysis. See Paul Grice, _Studies in the Way of Words_.
+
+# Software for Eliciting Predictions
+- [PredictionIO](https://predictionio.apache.org/templates/recommendation/training-with-implicit-preference/) (retired)
+- [PrefLib](https://www.preflib.org/)
+- Paper describing [ELICA](https://arxiv.org/pdf/1808.05857.pdf)
