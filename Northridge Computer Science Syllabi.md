@@ -53,15 +53,21 @@ Basic concepts:
 - Snake
 - Connect Four
 - Tetris
-- Space Invaders
+- [Space Invaders](https://www.youtube.com/watch?v=FfWpgLFMI7w)
 - Design your own
 - Online multi-player
+
+- [tutorial video with 5 games](https://www.youtube.com/watch?v=XGf2GcyHPhc)
 
 ## Web Development
 - Alter a web page
 - Make a personal homepage
 - Create a Chrome extension
 - Build a web game
+	- [brick breaker](https://www.youtube.com/watch?v=3EMxBkqC4z0)
+	- [Hangman](https://www.youtube.com/watch?v=T6uht1A0114)
+- Build a chat app
+	- [example repo](https://github.com/ammezie/webcage/tree/main)
 - Create a search engine
 ## Artificial Intelligence
 
