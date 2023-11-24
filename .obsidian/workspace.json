@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2e47dd4e4c7214b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS50.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Northridge Computer Science Syllabi.md",
+                "file": "CS50.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Northridge Computer Science Syllabi.md",
+                "file": "CS50.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Northridge Computer Science Syllabi.md"
+                "file": "CS50.md"
               }
             }
           },
@@ -156,11 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5020ff92085a9d10",
+  "active": "d5a837f6a110316c",
   "lastOpenFiles": [
+    "Northridge Computer Science Syllabi.md",
     "CS50.md",
     "Cognitive Tools.md",
-    "Northridge Computer Science Syllabi.md",
     "Tree of Thoughts.md",
     "Untitled.md",
     "Eliciting Preferences.md",
