@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Northridge Computer Science Syllabi.md",
+                "file": "CS50P.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,13 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5a837f6a110316c",
+  "active": "e2e47dd4e4c7214b",
   "lastOpenFiles": [
+    "CS50 Game Dev.md",
     "Northridge Computer Science Syllabi.md",
+    "CS50P.md",
+    "API Reading List.md",
+    "API-First.md",
+    "API Performance.md",
     "CS50.md",
     "Cognitive Tools.md",
     "Tree of Thoughts.md",
-    "Untitled.md",
     "Eliciting Preferences.md",
     "Artificial Intelligence Books and Papers - Eliciting Preferences.md",
     "Search.md",
@@ -193,9 +197,6 @@
     "2023-09-16.md",
     "Artificial Intelligence and Existential Risk.md",
     "Artificial Intelligence Books and Papers",
-    "Scraps.md",
-    "Inverse Reinforcement Learning.md",
-    "What is intelligence?.md",
-    "Intelligence.md"
+    "Scraps.md"
   ]
 }
