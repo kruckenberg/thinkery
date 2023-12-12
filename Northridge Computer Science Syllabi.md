@@ -64,7 +64,18 @@ Week 20: May 28 + exams
 	2. problem decomposition & pseudo-coding the game
 	3. try it!
 	4. presenting your game and talking through your code
-	5. bonus: refactor
+	5. challenges:
+		1. define winning condition and end game
+		2. refine:
+			1. start game only when players are ready
+			2. keep paddles from moving off screen
+			3. add boundaries, mid-line, etc
+			4. spiff it up
+			5. add sound effects
+		3. enhance:
+			1. vary speed (set at beginning / speed up during rally)
+			2. vary ball angles
+		4. refactor: consolidate duplicate code; object-orientation
 11. Snake
 12. Tetris
 13. (Space Invaders)

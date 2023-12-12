@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "22bc2ede1ce7a05a",
+        "id": "2befe6cc002548cf",
         "type": "tabs",
         "children": [
           {
-            "id": "5020ff92085a9d10",
+            "id": "eac9c6b7fefcbb08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50P.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2e47dd4e4c7214b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS50.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS50.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS50.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS50.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,15 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2e47dd4e4c7214b",
+  "active": "eac9c6b7fefcbb08",
   "lastOpenFiles": [
-    "CS50 Game Dev.md",
-    "Northridge Computer Science Syllabi.md",
     "CS50P.md",
+    "Northridge Computer Science Syllabi.md",
+    "CS50.md",
+    "CS50 Game Dev.md",
     "API Reading List.md",
     "API-First.md",
     "API Performance.md",
-    "CS50.md",
     "Cognitive Tools.md",
     "Tree of Thoughts.md",
     "Eliciting Preferences.md",
