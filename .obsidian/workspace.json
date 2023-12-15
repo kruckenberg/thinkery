@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2befe6cc002548cf",
+        "id": "478c71a04be4acd5",
         "type": "tabs",
         "children": [
           {
-            "id": "eac9c6b7fefcbb08",
+            "id": "4f2653831a7f6fd5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eac9c6b7fefcbb08",
+  "active": "4f2653831a7f6fd5",
   "lastOpenFiles": [
-    "CS50P.md",
     "Northridge Computer Science Syllabi.md",
+    "CS50P.md",
     "CS50.md",
     "CS50 Game Dev.md",
     "API Reading List.md",

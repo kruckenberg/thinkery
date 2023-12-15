@@ -1,9 +1,12 @@
+# Virtues
+1. Hard work. Like most things worth doing, learning to code isn't easy. But I promise: show up, put in the work, and you'll be rewarded.
+2. Adventurousness & daring-do. Its difficulty is no small part of what makes coding enjoyable: embrace the challenge. You can also build pretty amazing things with code. Let's be bold and have fun.
+3. Perseverance. Code rarely works the first time. Problems can seem intractable. Keep trying.
+4. Resourcefulness. You will (often) hit walls. Get good at scaling them. Solutions and help are out there if you learn how to ask and where to look.
+5. Generosity. We're in this together. Encourage each other and help however you can. The more freely you give, the richer you'll be.
 # Goals
-1. Perseverance. Code rarely works the first time. Keep trying.
-2. Resourcefulness. You will (often) hit walls. Get good at scaling them. Search. Read. Ask. Solutions and help are out there if you make the effort.
-3. Spirit of Adventure
-4. Hard work
-5. Generosity
+1. Write some non-trivial programs in Python.
+2. Communication.
 # Essentials
 1. A browser-based coding environment
 	1. ideally could handle submissions, grading
