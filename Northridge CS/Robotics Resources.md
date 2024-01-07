@@ -1,0 +1,2 @@
+- [Python for Robotics](https://roboticcoding.com/python-for-robotics/)
+- [PthonRobotics](https://atsushisakai.github.io/PythonRobotics/)

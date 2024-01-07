@@ -1,0 +1,4 @@
+- [Reaching Ludicrous Speed](https://www.youtube.com/watch?v=_0W_822Dijg) in [[Node JS]], a talk by Matteo Collina
+- A follow-up: [Take Your HTTP Server to Ludicrous Speed](https://www.youtube.com/watch?v=5z46jJZNe8k) (and [slides](https://mcollina.github.io/take-your-http-server-to-ludicrous-speed/))
+
+[[JavaScript]] promises are a significant bottleneck. James Snell [details the problem](https://www.youtube.com/watch?v=XV-u_Ow47s0) (and in this [blog post](https://www.nearform.com/blog/optimise-node-js-performance-avoiding-broken-promises/)). [Neo-Async](https://www.npmjs.com/package/neo-async#benchmark) is a drop-in replacement for promises that promises better performance.
