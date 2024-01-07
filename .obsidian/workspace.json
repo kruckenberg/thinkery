@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "478c71a04be4acd5",
+        "id": "8701bd5ba52ad423",
         "type": "tabs",
         "children": [
           {
-            "id": "4f2653831a7f6fd5",
+            "id": "90a9b3cd433232c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Northridge CS/Speculative Schedule - Spring 2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ee9cb9bb7a18572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Northridge CS/Northridge Computer Science Syllabi.md",
+                "file": "Northridge CS/Scratch Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "53d3503beb9ee69c",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Northridge CS/Northridge Computer Science Syllabi.md",
+                "file": "Northridge CS/Scratch Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Northridge CS/Northridge Computer Science Syllabi.md",
+                "file": "Northridge CS/Scratch Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Northridge CS/Northridge Computer Science Syllabi.md"
+                "file": "Northridge CS/Scratch Introduction.md"
               }
             }
           },
@@ -171,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ee9cb9bb7a18572",
+  "active": "d5a837f6a110316c",
   "lastOpenFiles": [
-    "Northridge CS/Northridge Computer Science Syllabi.md",
+    "Northridge CS/Scratch Introduction.md",
     "Northridge CS/Speculative Schedule - Spring 2024.md",
+    "Northridge CS/Northridge Computer Science Syllabi.md",
     "Reading List.md",
     "Northridge CS",
     "CS50P.md",
@@ -199,7 +188,6 @@
     "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers.md",
     "Artificial Intelligence Books and Papers/Artificial Intelligence Books and Papers - Knowledge Representation.md",
     "2023-09-16.md",
-    "Artificial Intelligence and Existential Risk.md",
     "Artificial Intelligence Books and Papers"
   ]
 }
